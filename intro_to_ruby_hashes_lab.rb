@@ -1,4 +1,7 @@
-def monopoly
+def base_hash
+
+
+def base_hash
   monopoly = {
     railroads: {}
   }
